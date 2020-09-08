@@ -31,7 +31,7 @@ What is the third number?
 1
 The median is 2
 ```
-
+`
 <br />
 <br />
 
@@ -42,7 +42,7 @@ Add code to [MyMain.java](src/main/java/MyMain.java) to do the desired thing.
 make run
 ```
 
-## Run your tests with:
+## Run your tests with:`
 ```shell script
 make test
 ```
